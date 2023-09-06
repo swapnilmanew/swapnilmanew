@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Mane</h1>
 <h3 align="center">A passionate Full Stack Self Taught Developer from India</h3>
 
-- 🔭 I’m currently working on **Animes World**
-
-- 🌱 I’m currently learning **Node Js, React Js, Next Js**
+- 🌱 I’m currently learning **AI & ML**
 
 - 📫 How to reach me **swapnilmanew@gmail.com**
 
